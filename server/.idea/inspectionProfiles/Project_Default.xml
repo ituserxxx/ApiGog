@@ -1,0 +1,84 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="attrs" />
+          <option value="Automat" />
+          <option value="blinker" />
+          <option value="candlelite" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="concurrent_log" />
+          <option value="constantly" />
+          <option value="cryptography" />
+          <option value="dotenv" />
+          <option value="Flask" />
+          <option value="Flask-JWT-Extended" />
+          <option value="greenlet" />
+          <option value="gunicorn" />
+          <option value="h11" />
+          <option value="h2" />
+          <option value="hiredis" />
+          <option value="hpack" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="hyperframe" />
+          <option value="hyperlink" />
+          <option value="idna" />
+          <option value="importlib_metadata" />
+          <option value="incremental" />
+          <option value="itsdangerous" />
+          <option value="jaraco.classes" />
+          <option value="jaraco.context" />
+          <option value="jaraco.functools" />
+          <option value="Jinja2" />
+          <option value="keyring" />
+          <option value="loguru" />
+          <option value="MarkupSafe" />
+          <option value="more-itertools" />
+          <option value="numpy" />
+          <option value="okx" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="paux" />
+          <option value="pendulum" />
+          <option value="portalocker" />
+          <option value="pycparser" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="PyJWT" />
+          <option value="PyMySQL" />
+          <option value="pyOpenSSL" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="python-okx" />
+          <option value="pytz" />
+          <option value="pywin32" />
+          <option value="pywin32-ctypes" />
+          <option value="redis" />
+          <option value="requests" />
+          <option value="setuptools" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="SQLAlchemy" />
+          <option value="Twisted" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="Werkzeug" />
+          <option value="win32_setctime" />
+          <option value="zipp" />
+          <option value="zope.interface" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
